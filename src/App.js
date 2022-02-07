@@ -50,9 +50,9 @@ function App() {
           <div className="row">
             <article className="col-3">
               <ul className="actions">
-                <li><a href="https://www.linkedin.com/in/ariana-jorgensen/" target="_blank" className="button">LinkedIn</a></li>
-                <li><a href="https://bl.ocks.org/ari-jorgensen" target="_blank" className="button">Bl.ocks</a></li>
-                <li><a href="https://github.com/ari-jorgensen" target="_blank" className="button">Github</a></li>
+                <li><a href="https://www.linkedin.com/in/ariana-jorgensen/" target="_blank" rel="noreferrer" className="button">LinkedIn</a></li>
+                <li><a href="https://bl.ocks.org/ari-jorgensen" target="_blank" rel="noreferrer" className="button">Bl.ocks</a></li>
+                <li><a href="https://github.com/ari-jorgensen" target="_blank" rel="noreferrer" className="button">Github</a></li>
               </ul>
             </article>
           </div>
